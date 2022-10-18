@@ -3,5 +3,6 @@
 
 #define A 1
 #define B 3
+#define C 4
 
 #endif
